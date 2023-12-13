@@ -8,7 +8,6 @@ This repository contains the HTML code for my weekly timetable, representing my 
 - [Timetable Structure](#timetable-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -21,5 +20,9 @@ The timetable is structured as an HTML table with specific styles to enhance rea
 ## Usage
 
 To use or modify the timetable, simply copy the HTML code and integrate it into your project. Feel free to customize the colors, fonts, or any other aspects based on your preferences.
+
+## Contributing
+
+If you have suggestions for improvements or would like to contribute to this little work, feel free to open an issue or submit a pull request. Your feedback and contributions are highly appreciated.
 
 
