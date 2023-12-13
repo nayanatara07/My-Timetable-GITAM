@@ -1,6 +1,6 @@
 # My Gitam Timetable
 
-This repository contains the HTML code for my weekly timetable, representing my student schedule at college.
+This repository contains the HTML code for [my weekly timetable](https://nayanatara07.github.io/My-Timetable-GITAM/), representing my student schedule at college.
 
 ## Table of Contents
 
