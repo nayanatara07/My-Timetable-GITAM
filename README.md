@@ -1,4 +1,4 @@
-# My Gitam Timetable (using html)
+# My Gitam Timetable (using only html)
 
 This repository contains the HTML code for [my weekly timetable](https://nayanatara07.github.io/My-Timetable-GITAM/), representing my student schedule at college.
 
